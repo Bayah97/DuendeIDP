@@ -55,8 +55,8 @@ export class AuthService {
   }
   
   completeSignOut(): Promise<void> {
-    localStorage.removeItem(environment.sessionStorage) // <-------- change according to ENVIRONMENT
-    localStorage.removeItem('token');
+    sessionStorage.removeItem(environment.sessionStorage) // <-------- change according to ENVIRONMENT
+    sessionStorage.removeItem('token');
     return this.manager.signoutRedirectCallback().then(this.manager.removeUser);
   }
 

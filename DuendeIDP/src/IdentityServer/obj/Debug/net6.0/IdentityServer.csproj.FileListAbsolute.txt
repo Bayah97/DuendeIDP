@@ -300,3 +300,4 @@ C:\Users\sabariah\Desktop\1\DuendeIDP\src\IdentityServer\obj\Debug\net6.0\refint
 C:\Users\sabariah\Desktop\1\DuendeIDP\src\IdentityServer\obj\Debug\net6.0\IdentityServer.pdb
 C:\Users\sabariah\Desktop\1\DuendeIDP\src\IdentityServer\obj\Debug\net6.0\IdentityServer.genruntimeconfig.cache
 C:\Users\sabariah\Desktop\1\DuendeIDP\src\IdentityServer\obj\Debug\net6.0\ref\IdentityServer.dll
+C:\Users\sabariah\Desktop\1\DuendeIDP\src\IdentityServer\bin\Debug\net6.0\keys\is-signing-key-A67319AC7BCE2F4DF65ABA774FCCE30F.json

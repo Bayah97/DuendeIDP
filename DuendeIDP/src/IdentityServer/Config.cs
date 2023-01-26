@@ -75,7 +75,7 @@ public static class Config
 
             AllowedCorsOrigins = { "http://localhost:4200" },
             RequireConsent = false,
-            AccessTokenLifetime = 10
+            AccessTokenLifetime = 60
         }
     };
 
