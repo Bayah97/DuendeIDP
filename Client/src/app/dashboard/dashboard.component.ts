@@ -26,7 +26,7 @@ export class DashboardComponent implements OnInit {
   }
 
   logout(){
-    localStorage.removeItem('token');
+    sessionStorage.removeItem('token');
     this.authService.startLogOut();
   }
 

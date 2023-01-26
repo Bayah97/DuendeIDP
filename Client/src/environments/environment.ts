@@ -6,6 +6,6 @@ export const environment = {
   clientId: 'Client1',
   redirectUri: 'http://localhost:4200/auth-callback',
   client_secret:'SuperSecretPassword',
-  localStorage: 'oidc.user:https://localhost:5001:Client1',
+  sessionStorage: 'oidc.user:https://localhost:5001:Client1',
   postLogoutRedirectUri: 'http://localhost:4200/logout-callback'
 };

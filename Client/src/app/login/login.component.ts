@@ -12,7 +12,7 @@ export class LoginComponent implements OnInit {
 
   ngOnInit(): void {
     localStorage.clear();
-    localStorage.clear();
+    sessionStorage.clear();
   }
   login(){
     this.router.navigateByUrl('/redirect')

@@ -23,7 +23,7 @@ export class AuthService {
   } 
 
   isLoggedIn(){
-    let x = localStorage.getItem(environment.localStorage);
+    let x = sessionStorage.getItem(environment.sessionStorage);
     if(x != null){
       return this.user != null;
     }
@@ -43,11 +43,11 @@ export class AuthService {
   }
 
   setRefreshToken(token:string){
-    localStorage.setItem('refreshToken', token)
+    sessionStorage.setItem('refreshToken', token)
   }
 
   setToken(token:string){
-    localStorage.setItem('token', token)
+    sessionStorage.setItem('token', token)
   }
 
   startLogOut(): Promise<void> {
@@ -55,7 +55,7 @@ export class AuthService {
   }
   
   completeSignOut(): Promise<void> {
-    localStorage.removeItem(environment.localStorage) // <-------- change according to ENVIRONMENT
+    localStorage.removeItem(environment.sessionStorage) // <-------- change according to ENVIRONMENT
     localStorage.removeItem('token');
     return this.manager.signoutRedirectCallback().then(this.manager.removeUser);
   }
@@ -73,6 +73,6 @@ export function getClientSettings(): UserManagerSettings {
       scope:"openid profile api1 role offline_access",
       // filterProtocolClaims: true,
       // loadUserInfo: true,
-      userStore: new WebStorageStateStore({ store: window.localStorage })
+      userStore: new WebStorageStateStore({ store: window.sessionStorage })
 };
 }
