@@ -1,0 +1,229 @@
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Api.exe
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Api.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\ref\Api.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\sabar\Desktop\Work\Duende\quickstart\src\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Api.exe
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\sabariah\Desktop\Work Document\Duende_v1\duendeIDP\src\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Api.exe
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\Duende_v1\duendeIDP - Copy\src\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Api.exe
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub\DuendeIDP\src\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Api.exe
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Api.exe
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\sabariah\Desktop\Work Document\Duende\DuendeGithub - Signature Token work - Copy\DuendeIDP\src\Api\obj\Debug\net6.0\ref\Api.dll

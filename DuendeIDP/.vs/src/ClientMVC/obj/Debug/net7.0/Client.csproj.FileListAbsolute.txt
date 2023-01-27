@@ -1,0 +1,17 @@
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\bin\Debug\net7.0\Client.exe
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\bin\Debug\net7.0\Client.deps.json
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\bin\Debug\net7.0\Client.dll
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\bin\Debug\net7.0\Client.pdb
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\Client.csproj.CopyComplete
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\Client.dll
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\refint\Client.dll
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\Client.pdb
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\sabariah\Desktop\Work Document\quickstart\src\Client\obj\Debug\net7.0\ref\Client.dll

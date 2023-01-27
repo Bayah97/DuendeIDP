@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Api",
+    "\\src\\Api\\Controllers",
+    "\\src\\ClientMVC",
+    "\\src\\IdentityServer",
+    "\\src\\IdentityServer\\Pages",
+    "\\src\\IdentityServer\\Pages\\Account",
+    "\\src\\IdentityServer\\Pages\\Account\\Logout"
+  ],
+  "SelectedNode": "\\src\\IdentityServer\\Config.cs",
+  "PreviewInSolutionExplorer": false
+}
