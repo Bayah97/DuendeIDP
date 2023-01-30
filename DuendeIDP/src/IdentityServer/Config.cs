@@ -76,6 +76,8 @@ public static class Config
             AllowedCorsOrigins = { "http://localhost:4200" },
             RequireConsent = false,
             AccessTokenLifetime = 60,
+            //refresh token expired 1 day
+            AbsoluteRefreshTokenLifetime = 86400,
         }
     };
 
